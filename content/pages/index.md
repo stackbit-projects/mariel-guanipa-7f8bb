@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hola, Soy Mari. Ayudo a los equipos a dar su gran potencial.'
+    title: 'Hola, Soy Mari. Ayudo a los equipos a potenciar sus grandes capacidades.'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
